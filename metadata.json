@@ -1,0 +1,5 @@
+{
+  "name": "Robo AI - Spotify Clone",
+  "description": "A Spotify clone that uses the Gemini API to intelligently generate new playlists based on any prompt you can imagine. Experience a new way to discover music.",
+  "requestFramePermissions": []
+}
